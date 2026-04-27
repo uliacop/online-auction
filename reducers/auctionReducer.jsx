@@ -24,7 +24,7 @@ export function reducer(state, action) {
       return {
         ...state,
         status: "active",
-        secondsRemaining: 100,
+        secondsRemaining: 150,
       };
     case "handleBid":
       return { ...state, selectedBid: action.payload };
