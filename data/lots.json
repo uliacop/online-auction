@@ -1,0 +1,124 @@
+{
+  "auction_lots": [
+    {
+      "id": 1,
+      "title": "Bildnis Elisabeth Lederer (Portrait of Elisabeth Lederer)",
+      "artist": "Gustav Klimt",
+      "year": 1914,
+      "image_url": "https://ichef.bbci.co.uk/images/ic/1024xn/p0mhczxc.jpg.webp",
+      "starting_price_usd": 180000000,
+      "final_price_usd": 236360000,
+      "auction_house": "Sotheby's",
+      "sale_year": 2025,
+      "description": "One of Klimt's finest portraits, depicting the heiress Elisabeth Lederer. The painting stands 6 feet tall and showcases the artist's intricate decorative style."
+    },
+    {
+      "id": 2,
+      "title": "Blumenwiese (Blooming Meadow)",
+      "artist": "Gustav Klimt",
+      "year": 1908,
+      "image_url": "https://sothebys-md.brightspotcdn.com/dims4/default/f626816/2147483647/strip/true/crop/2500x2524+0+0/resize/385x389!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ff9%2F54%2F378d98d14e7da3851efad10212eb%2Flot11klimtblumenwiesebloomingmeadow.jpg",
+      "starting_price_usd": 65000000,
+      "final_price_usd": 86000000,
+      "auction_house": "Sotheby's",
+      "sale_year": 2025,
+      "description": "A vibrant landscape painted during Klimt's summer retreat to Lake Attersee, exemplifying his mosaic-like approach to nature."
+    },
+    {
+      "id": 3,
+      "title": "Romans parisiens (Piles de romans parisiens)",
+      "artist": "Vincent van Gogh",
+      "year": 1887,
+      "image_url": "https://artslife.com/wp-content/uploads/2025/12/Romans-Parisiens-Piles-de-romans-parisiens-et-roses-dans-un-verre-%E2%80%93-Vincent-van-Gogh-1000x799.webp",
+      "starting_price_usd": 40000000,
+      "final_price_usd": 62710000,
+      "auction_house": "Sotheby's",
+      "sale_year": 2025,
+      "description": "An intimate still-life depicting piles of French novels, believed to be painted in Theo van Gogh's apartment."
+    },
+    {
+      "id": 4,
+      "title": "No. 31 (Yellow Stripe)",
+      "artist": "Mark Rothko",
+      "year": 1958,
+      "image_url": "https://www.artnet.com/WebServices/images/ll3048281llgQvkR3CfDrCWQFHPKAD/mark-rothko-yellow,-blue,-orange-(1955).jpg",
+      "starting_price_usd": 45000000,
+      "final_price_usd": 62160000,
+      "auction_house": "Christie's",
+      "sale_year": 2025,
+      "description": "A classic example of Rothko's luminous color-field paintings, featuring stacked red, pink, peach, and yellow rectangles."
+    },
+    {
+      "id": 5,
+      "title": "El sueño (La cama)",
+      "artist": "Frida Kahlo",
+      "year": 1940,
+      "image_url": "https://lavocedinewyork.com/wp-content/uploads/2025/11/20251121_video_12305399.jpg",
+      "starting_price_usd": 40000000,
+      "final_price_usd": 54660000,
+      "auction_house": "Sotheby's",
+      "sale_year": 2025,
+      "description": "A surrealist self-portrait of Kahlo lying in a bed suspended in the sky, with a skeleton wired with dynamite hovering above."
+    },
+    {
+      "id": 6,
+      "title": "Trois personnages",
+      "artist": "Pablo Picasso",
+      "year": 1970,
+      "image_url": "https://cdn.gallerix.asia/sr/_EX/1549051709/593698120.jpg",
+      "starting_price_usd": 600000,
+      "final_price_usd": 0,
+      "auction_house": "Sotheby's",
+      "sale_year": 2026,
+      "description": "With its bold interplay of pen and brush and the curiously disparate cast of characters, the present work highlights Picasso’s interest in both the formal techniques and narrative aspects of his Old Master forebears."
+    },
+    {
+      "id": 7,
+      "title": "Composition with Large Red Plane, Bluish Gray, Yellow, Black and Blue",
+      "artist": "Piet Mondrian",
+      "year": 1922,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Piet_Mondriaan%2C_1921_-_Composition_en_rouge%2C_jaune%2C_bleu_et_noir.jpg/330px-Piet_Mondriaan%2C_1921_-_Composition_en_rouge%2C_jaune%2C_bleu_et_noir.jpg",
+      "starting_price_usd": 35000000,
+      "final_price_usd": 47560000,
+      "auction_house": "Christie's",
+      "sale_year": 2025,
+      "description": "A canonical example of Mondrian's mature De Stijl period, dominated by a large red square within a geometric grid."
+    },
+    {
+      "id": 8,
+      "title": "Untitled",
+      "artist": "Alexander Calder",
+      "year": 1953,
+      "image_url": "../img/Untitled.jpg",
+      "starting_price_usd": 30000000,
+      "final_price_usd": 0,
+      "auction_house": "Sotheby's",
+      "sale_year": 2026,
+      "description": "sheet metal, brass, wire and paint5 by 4 ½ by 1 ½ in.  12.7 by 11.4 by 3.8 cm."
+    },
+    {
+      "id": 9,
+      "title": "Bouquet",
+      "artist": "Marc Chagall",
+      "year": 1960,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c6/Marc_Chagall_-_Bouquet_pr%C3%A8s_de_la_fen%C3%AAtre.jpg",
+      "starting_price_usd": 5000000,
+      "final_price_usd": 6850000,
+      "auction_house": "Seoul Auction",
+      "sale_year": 2025,
+      "description": "A vibrant floral bouquet by Chagall, which became the highest-priced work sold in Korea in 2025."
+    },
+    {
+      "id": 10,
+      "title": "Bomb Love",
+      "artist": "Banksy",
+      "year": 2003,
+      "image_url": "https://banksyexplained.com/wp-content/uploads/2021/04/BOMB-LOVE-MAIN-NEW.jpg",
+      "starting_price_usd": 50000,
+      "final_price_usd": 150000,
+      "auction_house": "Los Angeles Modern Auctions",
+      "sale_year": 2025,
+      "description": "A rare screenprint from an edition of 600, depicting a young girl hugging a bomb. Iconic street art by the anonymous artist Banksy."
+    }
+  ]
+}
